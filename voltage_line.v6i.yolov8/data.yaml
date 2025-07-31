@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['voltage_line']
+
+roboflow:
+  workspace: myworkspace-5qdaa
+  project: voltage_line-6mv9z
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/myworkspace-5qdaa/voltage_line-6mv9z/dataset/6
