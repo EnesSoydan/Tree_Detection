@@ -1,0 +1,6 @@
+train: merged_dataset/train/images
+val: merged_dataset/valid/images
+nc: 2
+test: ../test/images
+
+names: ['direk', 'tree']

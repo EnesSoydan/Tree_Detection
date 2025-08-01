@@ -1,6 +1,0 @@
-path: C:/Users/eness/Desktop/görsel_boyut_kucultme/voltage_line.v1i.yolov8
-train: images/train
-val: images/train
-
-names:
-  0: voltage_line
